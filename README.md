@@ -7,21 +7,40 @@ dgme350-rails
 
 - id
 - date submitted
-- author
+- user name
 - up votes
 - down votes
 - hashtags
 
 
-### Author
+### User
 
 - id
 - name
 - date joined
 - submitted count
+- hashtags favorites
 
 
 ### Hashtag
 
 - id
 - name
+
+
+## Defaults
+
+#### Hashtags
+
+Default hashtags displayed 
+- news
+- funny
+- cats
+
+
+#### Ordering
+
+Display posts with ordering priorities
+
+1. Up votes
+2. Date submitted
