@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: testApp_dev
+      hosts:
+        - localhost:27017
