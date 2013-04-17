@@ -7,3 +7,21 @@ dgme350-rails
 
 - id
 - date submitted
+- author
+- up votes
+- down votes
+- hashtags
+
+
+### Author
+
+- id
+- name
+- date joined
+- submitted count
+
+
+### Hashtag
+
+- id
+- name
